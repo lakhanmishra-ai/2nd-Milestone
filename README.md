@@ -84,3 +84,7 @@ Game simulation logic
 Lists, loops, and functions
 Python modules & imports
 
+## Author 
+Mail to: (lakhanmishra.ai@gmail.com)
+Github:()
+
