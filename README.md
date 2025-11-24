@@ -86,5 +86,8 @@ Python modules & imports
 
 ## Author 
 Mail to: (lakhanmishra.ai@gmail.com)
-Github:()
+Github:(https://github.com/lakhanmishra.ai)
+Linked In:(www.linkedin.com/in/lakhan-mishra-bab866229)
+
+
 
